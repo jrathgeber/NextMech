@@ -99,13 +99,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Time Series{" "}
+            NUMERAI{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            See the Mechanizd performance in the Numerai machine learning tournament. LightGBM and XGBoost models. 
+            See the Mechanizd performance in the Numerai time-series machine learning tournament. LightGBM and XGBoost models. 
           </p>
         </a>
       </div>
